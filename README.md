@@ -36,10 +36,6 @@ Crie um arquivo `.env` na pasta `/content` do Colab:
 GEMINI_API_KEY=sua_chave_aqui
 ```
 
-### Via segredo do Colab
-
-Adicione um segredo chamado `KEY_FATEC` na barra lateral (ícone de chave, New secret) com a chave da API e autorize o notebook a usar esse segredo.
-
 ## Estrutura do notebook
 
 1. **Instalação** – instala `google-genai`, `python-dotenv` e `panel`.
