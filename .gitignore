@@ -1,0 +1,15 @@
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados pelo Colab/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Sistemas / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
